@@ -1,0 +1,12 @@
+{
+    "name": "dalee/ppcs",
+    "description": "Proxima Portal PHP Code Style",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dalee IA",
+            "email": "dev@dalee.ru"
+        }
+    ]
+}
