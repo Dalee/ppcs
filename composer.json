@@ -1,6 +1,7 @@
 {
     "name": "dalee/ppcs",
     "description": "Proxima Portal PHP Code Style",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
